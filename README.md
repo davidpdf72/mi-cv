@@ -6,8 +6,10 @@
 - **LinkedIn:** [linkedin.com/in/pdfdavid-ksm](https://linkedin.com/in/pdfdavid-ksm)
 
 ## Experiencia Laboral
-### Jefe de Proyectos
+### Key Contract Manager
 *Compañía AYESA - Abril 2009 a Presente*
+- Gestión de proyectos
+- Gestión de Ofertas
 - Gestión de equipos y desarrollo de software.
 - Control económico de proyectos.
 
