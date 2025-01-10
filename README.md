@@ -72,4 +72,4 @@ _Abril 2009 - Presente_
 ## **Enlaces**
 - [GitHub]( https://github.com/davidpdf72/mi-cv)
 - [LinkedIn]( https://linkedin.com/in/pdfdavid-ksm)
-)
+
