@@ -42,22 +42,28 @@ _Abril 2009 - Presente_
 
 | Curso                        | Año       | Institución                      |
 |------------------------------|-----------|----------------------------------|
-| Ingeniería Informática       | 1994-1997 | ICAI de Madrid |
-| PMP - Gestión de Proyectos   | 2015      | Project Management Institute    |
-| SCRUM Master Certified (SMC) | 2017      | Scrum Alliance                  |
+| Ingeniería Informática       | 1994-1997 | ICAI (Pontificia de comillas)
+| PMP - Gestión de Proyectos   | 2017      | Project Management Institute    |
+| SCRUM Master Certified (SMC) | 2016      | Scrum Alliance                  |
 |
 
 ---
 
 ## **Proyectos Destacados**
-### **Sistema de Gestión Financiera para Empresa XYZ**
-- **Impacto:** Redujo tiempos de procesamiento en un **40%** y aumentó la eficiencia.
-- **Tecnologías:** Java, Python, SQL.
+### **Gestión Proyectos Ayudas Estatales en Agencia Española de Investigación**
+- **Impacto:** Redujo tiempos de procesamiento en un **20%** y aumentó la eficiencia.
+- **Tecnologías:** Java, Oracle, GITLAB.
+- **Herramientas:**JIRA
 
-### **Plataforma E-Commerce para RetailCorp**
+### **Certificación Feder-Fondos Europeos**
 - **Impacto:** Incrementó las ventas en línea un **35%** con una plataforma de microservicios.
-- **Tecnologías:** Angular, Node.js, Docker, Kubernetes.
+- **Tecnologías:** Java, Oracle.
+- **Herramientas:**JIRA
 
+### **Proyecto de implementación sistemas de Nómina de Meta4 en el Insalud (hopitales)**
+- **Impacto:** Incrementó de la plataforma en un **30%** desde el comienzo
+- **Tecnologías:** ERP-Meta4
+- **Herramientas:**JIRA
 ---
 
 ## **Idiomas**
