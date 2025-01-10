@@ -18,7 +18,7 @@
 ](https://github.com/davidpdf72/mi-cv
 # **David Pérez de Frutos**
 **Gerente de Proyectos Informáticos**  
-📧 juan.perez@example.com |                                           📱 +34 678412033 |                                                    🌐 [GitHub]( https://github.com/davidpdf72/mi-cv) |                           [LinkedIn]( https://linkedin.com/in/pdfdavid-ksm)  
+📧pdfdavid@gmail.com |                                           📱 +34 678412033 |                                                    🌐 [GitHub]( https://github.com/davidpdf72/mi-cv) |                           [LinkedIn]( https://linkedin.com/in/pdfdavid-ksm)  
 
 
 ---
