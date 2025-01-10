@@ -6,7 +6,7 @@
 ---
 
 ## **Resumen Profesional**
-Profesional con más de 10 años de experiencia en la gestión de proyectos informáticos, liderando equipos multidisciplinarios y desarrollando soluciones tecnológicas en entornos ágiles. Especialista en metodologías como SCRUM y PMP, con una sólida formación en Ingeniería Informática y habilidades estratégicas para maximizar la eficiencia y la rentabilidad de los proyectos.
+Profesional con más de 20 años de experiencia en la gestión de proyectos informáticos, liderando equipos multidisciplinarios y desarrollando soluciones tecnológicas en entornos ágiles. Especialista en metodologías como SCRUM y PMP, con una sólida formación en Ingeniería Informática y habilidades estratégicas para maximizar la eficiencia y la rentabilidad de los proyectos.
 
 ---
 
