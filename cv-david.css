@@ -1,0 +1,95 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #dce6f0; /* Fondo más oscuro pero suave */
+    color: #333;
+}
+header, section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+header {
+    text-align: center;
+    border-bottom: 3px solid #779bbd;
+    background-color: #e6edf5; /* Fondo sutil para el encabezado */
+}
+header h1 {
+    font-size: 2.5em;
+    color: #3a7bc1;
+    margin-bottom: 10px;
+}
+header p {
+    margin: 5px 0;
+    font-size: 1em;
+}
+header a {
+    color: #3a7bc1;
+    text-decoration: none;
+}
+header a:hover {
+    text-decoration: underline;
+}
+header img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+
+section h2 {
+    font-size: 1.8em;
+    color: #3a7bc1;
+    border-bottom: 2px solid #779bbd;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+ul, table {
+    margin: 10px 0;
+}
+
+/* Table Styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+table th {
+    background-color: #d7e4f2; /* Fondo más oscuro para encabezados de tabla */
+    color: #333;
+}
+table tr:nth-child(even) {
+    background-color: #f3f7fc;
+}
+table tr:hover {
+    background-color: #e0ecf7;
+}
+
+/* List Styles */
+ul {
+    padding-left: 20px;
+}
+ul li {
+    margin-bottom: 5px;
+}
+
+/* Links */
+a {
+    color: #3a7bc1;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
