@@ -1,5 +1,5 @@
 # **David Pérez de Frutos**
-**Gerente de Proyectos Informáticos**  
+**IT Project Manager**  
 📧pdfdavid@gmail.com |                                           📱 +34 678412033 |                                                    🌐 [GitHub]( https://github.com/davidpdf72/mi-cv) |                           [LinkedIn]( https://linkedin.com/in/pdfdavid-ksm)  
 
 
