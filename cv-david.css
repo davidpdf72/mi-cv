@@ -4,8 +4,9 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #dce6f0; /* Fondo más oscuro pero suave */
-     color: #8B6B4A;
+    background-color: #8B6B4A; /* Fondo más oscuro pero suave */
+    
+   color: #333;
 }
 header, section {
     max-width: 800px;
@@ -94,3 +95,4 @@ a:hover {
     text-decoration: underline;
 
 }
+
