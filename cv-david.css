@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #dce6f0; /* Fondo más oscuro pero suave */
-    color: #333;
+     color: #8B6B4A;
 }
 header, section {
     max-width: 800px;
@@ -92,4 +92,5 @@ a {
 }
 a:hover {
     text-decoration: underline;
+
 }
